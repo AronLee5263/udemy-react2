@@ -18,7 +18,7 @@ function MainNavigation() {
           </li>
         </ul>
       </nav>
-    </header> // 커밋만으로 깃에 올라가는지
+    </header>
   );
 }
 
