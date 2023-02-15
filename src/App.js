@@ -3,7 +3,7 @@ import AllMeetupsPage from "./pages/AllMeetups";
 import FavoritesPage from "./pages/Favorites";
 import NewMeetupPage from "./pages/NewMeetup";
 import MainNavigation from "./components/layout/MainNavigation";
-
+// 커밋 테스트
 function App() {
   return (
     <div>
